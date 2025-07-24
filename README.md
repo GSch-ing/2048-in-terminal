@@ -5,12 +5,12 @@ Built in Python as a practice project to strengthen logic, array manipulation, a
 
 ---
 
-## 🎯 Objective
+## Objective
 Combine tiles of the same value to reach **2048** without filling up the board.
 
 ---
 
-## ✨ Features
+## Features
 - 4×4 grid gameplay
 - WASD key controls
 - Score tracking
@@ -19,12 +19,12 @@ Combine tiles of the same value to reach **2048** without filling up the board.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - **Language**: Python 3
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone the repository
 ```bash
